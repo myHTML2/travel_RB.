@@ -20,7 +20,7 @@ cities = {
         ],
         'wiki_link': 'https://ru.wikipedia.org/wiki/Уфа'
     },
-    'durtuli': {
+    'durtyuli': {
         'name': 'Дюртюли',
         'places': [
             {'name': 'Набережная', 'image': 'https://th.bing.com/th/id/OIP.81-GvBVMqEsTcMcWfNSjQAHaE7?w=108&h=108&c=1&bgcl=029841&r=0&o=7&dpr=1.3&pid=ImgRC&rm=3'},
@@ -151,7 +151,7 @@ def home():
         <li><a href="birsk.html">Бирск</a></li>
         <li><a href="uchaly.html">Учалы</a></li>
         <li><a href="blagovechensk.html">Благовещенск</a></li>
-        <li><a href="dyurtyuli.html">Дюртюли</a></li>
+        <li><a href="dyrtyuli.html">Дюртюли</a></li>
         <li><a href="yanaul.html">Янаул</a></li>
         <li><a href="davlekanovo.html">Давлеканово</a></li>
         <li><a href="baymak.html">Баймак</a></li>
