@@ -149,7 +149,6 @@ def home():
         <li><a href="belebey.html">Белебей</a></li>
         <li><a href="meleuz.html">Мелеуз</a></li>
         <li><a href="birsk.html">Бирск</a></li>
-        <li><a href="uchaly.html">Учалы</a></li>
         <li><a href="blagovechensk.html">Благовещенск</a></li>
         <li><a href="dyrtyuli.html">Дюртюли</a></li>
         <li><a href="yanaul.html">Янаул</a></li>
