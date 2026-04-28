@@ -154,7 +154,6 @@ def home():
         <li><a href="yanaul.html">Янаул</a></li>
         <li><a href="davlekanovo.html">Давлеканово</a></li>
         <li><a href="baymak.html">Баймак</a></li>
-        <li><a href="meshgore.html">Межгорье</a></li>
         <li><a href="agidel.html">Агидель</a></li>
         </ul>
         <footer>
